@@ -1,4 +1,4 @@
-# # Blurry viedo
+# Blurry viedo
 Video recorder to record computer's webcam using opencv. This program provides the ability to blur the background except for the face area. 
 
 ## Features
@@ -11,4 +11,8 @@ Video recorder to record computer's webcam using opencv. This program provides t
 
 ## Output
 
-https://github.com/user-attachments/assets/6f680f8d-90c4-4156-aedc-a86af9a67c14
+
+
+https://github.com/user-attachments/assets/dd0e1439-6b3d-4417-b264-00f7a150d87a
+
+
