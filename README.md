@@ -12,7 +12,5 @@ Video recorder to record computer's webcam using opencv. This program provides t
 ## Output
 
 
-
-https://github.com/user-attachments/assets/dd0e1439-6b3d-4417-b264-00f7a150d87a
-
+https://github.com/user-attachments/assets/7b225ae1-c3f2-4084-bfed-55c0b1cb5748
 
